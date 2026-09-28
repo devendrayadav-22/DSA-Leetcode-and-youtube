@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrrya/Arrrya.iml" filepath="$PROJECT_DIR$/Arrrya/Arrrya.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/DSA Full.iml" filepath="$PROJECT_DIR$/.idea/DSA Full.iml" />
+      <module fileurl="file://$PROJECT_DIR$/patternPrinting/patternPrinting.iml" filepath="$PROJECT_DIR$/patternPrinting/patternPrinting.iml" />
     </modules>
   </component>
 </project>
